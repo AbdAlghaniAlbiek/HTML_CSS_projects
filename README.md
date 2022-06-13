@@ -1,6 +1,7 @@
 # HTML_CSS_projects
 I was trying to improve my CSS skills by following Elzero web school CSS courses, and I completed three beautifull templates
 You can his courses from these links:
+
 [Template_1: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
 
 [Template_2: ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t)
